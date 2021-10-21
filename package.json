@@ -9,7 +9,7 @@
     "dist"
   ],
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.@hokk/bsc-sdk.github.com"
   },
   "repository": {
     "url": "https://github.com/hokk-finance/HOKK-SDK.git", 

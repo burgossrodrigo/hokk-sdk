@@ -8,7 +8,15 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/hokk-finance/HOKK-SDK.git",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "https://github.com/hokk-finance/HOKK-SDK.git", 
+    "type": "git"
+  },
+  "author": "rodrigoburgos@live.com",
+  "bugs": "https://github.com/hokk-finance/HOKK-SDK.git/issues",
   "keywords": [
     "hokk",
     "bsc",
